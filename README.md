@@ -7,22 +7,20 @@
     body {
       margin: 0;
       padding: 0;
-      background-color: #fffdf9;
+      background-color: #ffffff;
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
-      flex-direction: column;
     }
-    .imgur-embed-pub {
-      max-width: 90%;
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
     }
   </style>
 </head>
 <body>
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/mbB5IL7">
-    <a href="//imgur.com/mbB5IL7">Teeyan Da Mela 2025 CT</a>
-  </blockquote>
-  <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="https://i.imgur.com/dzTuwyJ.jpg" alt="Teeyan Da Mela 2025 Poster" />
 </body>
 </html>
