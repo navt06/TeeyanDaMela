@@ -21,6 +21,6 @@
   </style>
 </head>
 <body>
-  <img src="https://i.postimg.cc/Z56X3QVb/temp-Imagei2k7oz.avif" alt="Teeyan Da Mela 2025 Poster" />
+  <img src="https://i.postimg.cc/DZKvLDVn/temp-Image-L8-Ns3-Z.avif" alt="Teeyan Da Mela 2025 Poster" />
 </body>
 </html>
